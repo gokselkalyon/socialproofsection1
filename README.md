@@ -2,7 +2,7 @@
 
 ![Design preview for the Social proof section coding challenge](assets/design/desktop-preview.jpg)
 
-(https://images.unsplash.com/photo-1561385025-036e37362d02?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![Design preview for the Social proof section coding challenge](https://images.unsplash.com/photo-1561385025-036e37362d02?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
 ## Welcome! 👋
 
